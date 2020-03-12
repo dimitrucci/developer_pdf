@@ -1,1 +1,1 @@
-# developer_pdf
+Node.js application that dynamically generates a PDF profile from a GitHub username.# developer_pdf
